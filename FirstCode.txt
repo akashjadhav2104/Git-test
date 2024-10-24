@@ -1,1 +1,1 @@
-Hello this the larning I'm doing for Git
+Hello!!! This is the learning I'm doing for Git.
